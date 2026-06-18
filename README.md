@@ -203,28 +203,6 @@ Each instrument is a standalone DLL implementing `IInstrumentDriver`. Drop it in
 
 ---
 
-## 📐 Design Documentation
-
-Three comprehensive documents (written in Chinese):
-
-| Document | Description |
-|----------|-------------|
-| `PLC测控IDE项目-完整软件架构方案.md` | Complete architectural design — 17 chapters |
-| `Phase计划书-完整实施路线图.md` | Development roadmap |
-| `Phase1-11执行计划与进度跟踪.md` | Progress tracking |
-
----
-
-## 🔧 Development Conventions
-
-- **XML comments** in Chinese for all public APIs (`<summary>` / `<param>` / `<returns>`)
-- **Target frameworks:** class libraries → `net8.0`, WPF projects → `net8.0-windows`
-- **Namespace prefix:** `Cc.IDE`
-- **DI container:** `Microsoft.Extensions.DependencyInjection`
-- **MVVM base classes** live in `Cc.IDE.Mvvm` — reuse, don't reinvent
-
----
-
 ## ❓ Troubleshooting Guide
 
 | Problem | Look At |
@@ -420,17 +398,7 @@ Start → ... → TestStep → Condition → ... → End
 
 ---
 
-## 📐 设计文档
-
-根目录三份设计文档：
-
-| 文档 | 说明 |
-|------|------|
-| `PLC测控IDE项目-完整软件架构方案.md` | 完整架构设计，17 个章节 |
-| `Phase计划书-完整实施路线图.md` | 后续开发路线 |
-| `Phase1-11执行计划与进度跟踪.md` | 进度跟踪记录 |
-
----
+## 
 
 ## 🔧 开发约定
 
