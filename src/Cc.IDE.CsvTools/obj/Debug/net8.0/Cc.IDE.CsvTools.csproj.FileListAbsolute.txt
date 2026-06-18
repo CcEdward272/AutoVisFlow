@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\bin\Debug\net8.0\Cc.IDE.CsvTools.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\bin\Debug\net8.0\Cc.IDE.CsvTools.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\bin\Debug\net8.0\Cc.IDE.CsvTools.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\Cc.IDE.CsvTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\Cc.IDE.CsvTools.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\Cc.IDE.CsvTools.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\Cc.IDE.CsvTools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\Cc.IDE.CsvTools.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\refint\Cc.IDE.CsvTools.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\Cc.IDE.CsvTools.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CsvTools\obj\Debug\net8.0\ref\Cc.IDE.CsvTools.dll

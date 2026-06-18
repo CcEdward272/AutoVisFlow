@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "11+Xxm2PPtQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

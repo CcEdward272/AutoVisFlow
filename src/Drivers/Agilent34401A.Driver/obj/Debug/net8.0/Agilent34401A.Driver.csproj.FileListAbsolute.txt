@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent34401A.Driver.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent34401A.Driver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent34401A.Driver.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent34401A.Driver.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent34401A.Driver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\bin\Debug\net8.0\Agilent34401A.Driver.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\bin\Debug\net8.0\Agilent34401A.Driver.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\bin\Debug\net8.0\Agilent34401A.Driver.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\bin\Debug\net8.0\Cc.IDE.Communication.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\bin\Debug\net8.0\Cc.IDE.DriverSdk.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\bin\Debug\net8.0\Cc.IDE.DriverSdk.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\bin\Debug\net8.0\Cc.IDE.Communication.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent3.DD1DEC76.Up2Date
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent34401A.Driver.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\refint\Agilent34401A.Driver.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\Agilent34401A.Driver.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Drivers\Agilent34401A.Driver\obj\Debug\net8.0\ref\Agilent34401A.Driver.dll

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\bin\Debug\net8.0\Cc.IDE.JsonTools.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\bin\Debug\net8.0\Cc.IDE.JsonTools.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\bin\Debug\net8.0\Cc.IDE.JsonTools.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\Cc.IDE.JsonTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\Cc.IDE.JsonTools.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\Cc.IDE.JsonTools.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\Cc.IDE.JsonTools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\Cc.IDE.JsonTools.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\refint\Cc.IDE.JsonTools.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\Cc.IDE.JsonTools.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.JsonTools\obj\Debug\net8.0\ref\Cc.IDE.JsonTools.dll

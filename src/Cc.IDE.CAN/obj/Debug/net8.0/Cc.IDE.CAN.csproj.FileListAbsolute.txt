@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\bin\Debug\net8.0\Cc.IDE.CAN.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\bin\Debug\net8.0\Cc.IDE.CAN.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\bin\Debug\net8.0\Cc.IDE.CAN.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\bin\Debug\net8.0\Cc.IDE.Communication.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\bin\Debug\net8.0\Cc.IDE.Communication.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.csproj.Up2Date
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\refint\Cc.IDE.CAN.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\Cc.IDE.CAN.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.CAN\obj\Debug\net8.0\ref\Cc.IDE.CAN.dll

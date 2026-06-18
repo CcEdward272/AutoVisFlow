@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cc.IDE.ProjectSystem\Cc.IDE.ProjectSystem.csproj" />
+    <ProjectReference Include="..\Cc.IDE.Communication\Cc.IDE.Communication.csproj" />
+    <ProjectReference Include="..\Cc.IDE.DriverSdk\Cc.IDE.DriverSdk.csproj" />
+    <ProjectReference Include="..\Cc.IDE.PLC\Cc.IDE.PLC.csproj" />
+    <ProjectReference Include="..\Cc.IDE.CAN\Cc.IDE.CAN.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

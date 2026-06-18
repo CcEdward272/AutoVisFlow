@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\Cc.IDE.ProjectSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\Cc.IDE.ProjectSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\Cc.IDE.ProjectSystem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\Cc.IDE.ProjectSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\bin\Debug\net8.0\Cc.IDE.ProjectSystem.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\bin\Debug\net8.0\Cc.IDE.ProjectSystem.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\bin\Debug\net8.0\Cc.IDE.ProjectSystem.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\Cc.IDE.ProjectSystem.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\refint\Cc.IDE.ProjectSystem.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\Cc.IDE.ProjectSystem.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.ProjectSystem\obj\Debug\net8.0\ref\Cc.IDE.ProjectSystem.dll

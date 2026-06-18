@@ -1,0 +1,60 @@
+<UserControl x:Class="Cc.IDE.TaskEditor.PropertyPaneView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Cc.IDE.TaskEditor"
+             Background="#252526">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- 标题栏 -->
+        <Border Grid.Row="0" Background="#2D2D2D" Padding="10,8"
+                BorderBrush="#3F3F46" BorderThickness="0,0,0,1">
+            <TextBlock Text="属性" Foreground="#D4D4D4"
+                       FontWeight="Bold" FontSize="13"/>
+        </Border>
+
+        <!-- 属性表单 -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel Margin="10" x:Name="PropertyPanel">
+                <!-- 通用属性区 -->
+                <TextBlock Text="节点属性" Foreground="#888" FontSize="11"
+                           FontWeight="SemiBold" Margin="0,0,0,8"/>
+
+                <!-- 标题 -->
+                <TextBlock Text="标题" Foreground="#AAA" FontSize="11" Margin="0,4,0,2"/>
+                <TextBox x:Name="TitleBox" Background="#3C3C3C" Foreground="#D4D4D4"
+                         BorderBrush="#555" BorderThickness="1" Padding="4"
+                         Text="{Binding SelectedNode.DisplayTitle, UpdateSourceTrigger=PropertyChanged}"/>
+
+                <!-- 节点类型 -->
+                <TextBlock Text="类型" Foreground="#AAA" FontSize="11" Margin="0,8,0,2"/>
+                <TextBlock Text="{Binding SelectedNode.NodeType}"
+                           Foreground="#D4D4D4" FontSize="12" Margin="0,0,0,4"/>
+
+                <!-- 启用 -->
+                <CheckBox Content="启用"
+                          IsChecked="{Binding SelectedNode.Enabled}"
+                          Foreground="#AAA" Margin="0,8,0,4"/>
+
+                <!-- 描述 -->
+                <TextBlock Text="描述" Foreground="#AAA" FontSize="11" Margin="0,4,0,2"/>
+                <TextBox x:Name="DescBox" Background="#3C3C3C" Foreground="#D4D4D4"
+                         BorderBrush="#555" BorderThickness="1" Padding="4"
+                         TextWrapping="Wrap" AcceptsReturn="True" MinHeight="50"
+                         Text="{Binding SelectedNode.Description, UpdateSourceTrigger=PropertyChanged}"/>
+
+                <!-- TestStep 展开区 -->
+                <TextBlock x:Name="TestStepSection" Text="I/O 动作"
+                           Foreground="#888" FontSize="11" FontWeight="SemiBold"
+                           Margin="0,16,0,8" Visibility="Collapsed"/>
+                <TextBlock x:Name="EmptySelection"
+                           Text="选中一个节点以编辑属性"
+                           Foreground="#666" FontSize="12"
+                           HorizontalAlignment="Center" Margin="0,20"/>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</UserControl>

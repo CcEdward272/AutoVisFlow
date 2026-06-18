@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\Cc.IDE.Mvvm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\Cc.IDE.Mvvm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\Cc.IDE.Mvvm.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\Cc.IDE.Mvvm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\bin\Debug\net8.0\Cc.IDE.Mvvm.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\bin\Debug\net8.0\Cc.IDE.Mvvm.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\bin\Debug\net8.0\Cc.IDE.Mvvm.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\Cc.IDE.Mvvm.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\refint\Cc.IDE.Mvvm.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\Cc.IDE.Mvvm.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\ref\Cc.IDE.Mvvm.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Mvvm\obj\Debug\net8.0\Cc.IDE.Mvvm.csproj.AssemblyReference.cache

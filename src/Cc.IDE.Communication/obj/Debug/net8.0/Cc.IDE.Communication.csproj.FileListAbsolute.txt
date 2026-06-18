@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\Cc.IDE.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\Cc.IDE.Communication.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\Cc.IDE.Communication.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\Cc.IDE.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\bin\Debug\net8.0\Cc.IDE.Communication.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\bin\Debug\net8.0\Cc.IDE.Communication.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\bin\Debug\net8.0\Cc.IDE.Communication.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\Cc.IDE.Communication.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\Cc.IDE.Communication.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\refint\Cc.IDE.Communication.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\Cc.IDE.Communication.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.Communication\obj\Debug\net8.0\ref\Cc.IDE.Communication.dll

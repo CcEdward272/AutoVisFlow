@@ -1,0 +1,23 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Cc.IDE.App/Cc.IDE.App.csproj" />
+    <Project Path="src/Cc.IDE.CAN/Cc.IDE.CAN.csproj" />
+    <Project Path="src/Cc.IDE.CliTools/Cc.IDE.CliTools.csproj" />
+    <Project Path="src/Cc.IDE.Communication/Cc.IDE.Communication.csproj" />
+    <Project Path="src/Cc.IDE.CsvTools/Cc.IDE.CsvTools.csproj" />
+    <Project Path="src/Cc.IDE.DriverSdk/Cc.IDE.DriverSdk.csproj" />
+    <Project Path="src/Cc.IDE.InstrumentEditor/Cc.IDE.InstrumentEditor.csproj" />
+    <Project Path="src/Cc.IDE.IOMappingEditor/Cc.IDE.IOMappingEditor.csproj" />
+    <Project Path="src/Cc.IDE.JsonTools/Cc.IDE.JsonTools.csproj" />
+    <Project Path="src/Cc.IDE.Mvvm/Cc.IDE.Mvvm.csproj" />
+    <Project Path="src/Cc.IDE.Player/Cc.IDE.Player.csproj" />
+    <Project Path="src/Cc.IDE.PLC/Cc.IDE.PLC.csproj" />
+    <Project Path="src/Cc.IDE.ProjectSystem/Cc.IDE.ProjectSystem.csproj" />
+    <Project Path="src/Cc.IDE.Runtime/Cc.IDE.Runtime.csproj" />
+    <Project Path="src/Cc.IDE.TaskEditor/Cc.IDE.TaskEditor.csproj" />
+  </Folder>
+  <Folder Name="/src/Drivers/">
+    <Project Path="src/Drivers/Agilent34401A.Driver/Agilent34401A.Driver.csproj" />
+    <Project Path="src/Drivers/RigolDP832.Driver/RigolDP832.Driver.csproj" />
+  </Folder>
+</Solution>

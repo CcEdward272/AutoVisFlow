@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\bin\Debug\net8.0\Cc.IDE.PLC.deps.json
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\bin\Debug\net8.0\Cc.IDE.PLC.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\bin\Debug\net8.0\Cc.IDE.PLC.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\bin\Debug\net8.0\Cc.IDE.Communication.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\bin\Debug\net8.0\Cc.IDE.Communication.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.csproj.Up2Date
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\refint\Cc.IDE.PLC.dll
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\Cc.IDE.PLC.pdb
+C:\Users\Administrator\Desktop\PLC IDE\src\Cc.IDE.PLC\obj\Debug\net8.0\ref\Cc.IDE.PLC.dll

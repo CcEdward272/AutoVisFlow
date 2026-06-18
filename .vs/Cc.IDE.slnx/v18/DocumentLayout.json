@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|solutionrelative:src\\cc.ide.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.driversdk\\driverdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|solutionrelative:src\\cc.ide.driversdk\\driverdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531CFDEC-4571-33AA-8945-FBEE96A46178}|src\\Cc.IDE.TaskEditor\\Cc.IDE.TaskEditor.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.taskeditor\\flowcanvasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531CFDEC-4571-33AA-8945-FBEE96A46178}|src\\Cc.IDE.TaskEditor\\Cc.IDE.TaskEditor.csproj|solutionrelative:src\\cc.ide.taskeditor\\flowcanvasviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531CFDEC-4571-33AA-8945-FBEE96A46178}|src\\Cc.IDE.TaskEditor\\Cc.IDE.TaskEditor.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.taskeditor\\flowcanvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{531CFDEC-4571-33AA-8945-FBEE96A46178}|src\\Cc.IDE.TaskEditor\\Cc.IDE.TaskEditor.csproj|solutionrelative:src\\cc.ide.taskeditor\\flowcanvas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|solutionrelative:src\\cc.ide.app\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425198B6-4CB0-FB79-B5FD-801ECDA8AD1A}|src\\Drivers\\RigolDP832.Driver\\RigolDP832.Driver.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\drivers\\rigoldp832.driver\\rigoldp832driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425198B6-4CB0-FB79-B5FD-801ECDA8AD1A}|src\\Drivers\\RigolDP832.Driver\\RigolDP832.Driver.csproj|solutionrelative:src\\drivers\\rigoldp832.driver\\rigoldp832driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7B909C-7092-C967-E803-B2B1B32BAEE7}|src\\Cc.IDE.Communication\\Cc.IDE.Communication.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.communication\\communicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7B909C-7092-C967-E803-B2B1B32BAEE7}|src\\Cc.IDE.Communication\\Cc.IDE.Communication.csproj|solutionrelative:src\\cc.ide.communication\\communicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3CC7EC1-055D-56A0-80BC-8A49B3AA9FB0}|src\\Cc.IDE.CliTools\\Cc.IDE.CliTools.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.clitools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3CC7EC1-055D-56A0-80BC-8A49B3AA9FB0}|src\\Cc.IDE.CliTools\\Cc.IDE.CliTools.csproj|solutionrelative:src\\cc.ide.clitools\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2849855C-9A48-1B47-34C0-67EDA77DD72B}|src\\Cc.IDE.CAN\\Cc.IDE.CAN.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.can\\canabstractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2849855C-9A48-1B47-34C0-67EDA77DD72B}|src\\Cc.IDE.CAN\\Cc.IDE.CAN.csproj|solutionrelative:src\\cc.ide.can\\canabstractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.app\\studiocomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|solutionrelative:src\\cc.ide.app\\studiocomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7B909C-7092-C967-E803-B2B1B32BAEE7}|src\\Cc.IDE.Communication\\Cc.IDE.Communication.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.communication\\serialtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7B909C-7092-C967-E803-B2B1B32BAEE7}|src\\Cc.IDE.Communication\\Cc.IDE.Communication.csproj|solutionrelative:src\\cc.ide.communication\\serialtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.driversdk\\capabilityparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|solutionrelative:src\\cc.ide.driversdk\\capabilityparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.driversdk\\driverconnectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|solutionrelative:src\\cc.ide.driversdk\\driverconnectiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.mvvm\\eventaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|solutionrelative:src\\cc.ide.mvvm\\eventaggregator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.mvvm\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|solutionrelative:src\\cc.ide.mvvm\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD657B3-B808-A28F-208D-AC3C2F187965}|src\\Cc.IDE.Runtime\\Cc.IDE.Runtime.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.runtime\\runtimehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD657B3-B808-A28F-208D-AC3C2F187965}|src\\Cc.IDE.Runtime\\Cc.IDE.Runtime.csproj|solutionrelative:src\\cc.ide.runtime\\runtimehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD657B3-B808-A28F-208D-AC3C2F187965}|src\\Cc.IDE.Runtime\\Cc.IDE.Runtime.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.runtime\\iruntimehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD657B3-B808-A28F-208D-AC3C2F187965}|src\\Cc.IDE.Runtime\\Cc.IDE.Runtime.csproj|solutionrelative:src\\cc.ide.runtime\\iruntimehost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.projectsystem\\serialization\\projectsystemjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|solutionrelative:src\\cc.ide.projectsystem\\serialization\\projectsystemjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.projectsystem\\models\\iopointdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|solutionrelative:src\\cc.ide.projectsystem\\models\\iopointdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.projectsystem\\models\\loopdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|solutionrelative:src\\cc.ide.projectsystem\\models\\loopdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.projectsystem\\models\\ioconnectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|solutionrelative:src\\cc.ide.projectsystem\\models\\ioconnectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.projectsystem\\models\\ioactiondefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5AA9C5-D4C1-0552-CCCE-42F9657AC135}|src\\Cc.IDE.ProjectSystem\\Cc.IDE.ProjectSystem.csproj|solutionrelative:src\\cc.ide.projectsystem\\models\\ioactiondefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74830DD9-D02C-FFE8-2688-907A9C6E06A7}|src\\Cc.IDE.Player\\Cc.IDE.Player.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.player\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74830DD9-D02C-FFE8-2688-907A9C6E06A7}|src\\Cc.IDE.Player\\Cc.IDE.Player.csproj|solutionrelative:src\\cc.ide.player\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7B909C-7092-C967-E803-B2B1B32BAEE7}|src\\Cc.IDE.Communication\\Cc.IDE.Communication.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.communication\\icommunicationtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7B909C-7092-C967-E803-B2B1B32BAEE7}|src\\Cc.IDE.Communication\\Cc.IDE.Communication.csproj|solutionrelative:src\\cc.ide.communication\\icommunicationtransport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3441E439-607C-3C69-ADF5-75A6E99B4059}|src\\Cc.IDE.App\\Cc.IDE.App.csproj|solutionrelative:src\\cc.ide.app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.driversdk\\capabilityoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F6151E-814C-9950-9AD8-211374BBA5CF}|src\\Cc.IDE.DriverSdk\\Cc.IDE.DriverSdk.csproj|solutionrelative:src\\cc.ide.driversdk\\capabilityoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.mvvm\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|solutionrelative:src\\cc.ide.mvvm\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18208396-5D1D-719F-5E67-6CDE94ACCCC5}|src\\Cc.IDE.PLC\\Cc.IDE.PLC.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.plc\\modbustcpprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18208396-5D1D-719F-5E67-6CDE94ACCCC5}|src\\Cc.IDE.PLC\\Cc.IDE.PLC.csproj|solutionrelative:src\\cc.ide.plc\\modbustcpprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|c:\\users\\administrator\\desktop\\plc ide\\src\\cc.ide.mvvm\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50AF86-D00B-CA01-1353-5C862E3199CA}|src\\Cc.IDE.Mvvm\\Cc.IDE.Mvvm.csproj|solutionrelative:src\\cc.ide.mvvm\\asyncrelaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlowCanvasViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.TaskEditor\\FlowCanvasViewModel.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.TaskEditor\\FlowCanvasViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.TaskEditor\\FlowCanvasViewModel.cs",
+              "RelativeToolTip": "src\\Cc.IDE.TaskEditor\\FlowCanvasViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T03:47:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowCanvas.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.TaskEditor\\FlowCanvas.xaml",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.TaskEditor\\FlowCanvas.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.TaskEditor\\FlowCanvas.xaml",
+              "RelativeToolTip": "src\\Cc.IDE.TaskEditor\\FlowCanvas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-18T03:47:15.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RigolDP832Driver.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Drivers\\RigolDP832.Driver\\RigolDP832Driver.cs",
+              "RelativeDocumentMoniker": "src\\Drivers\\RigolDP832.Driver\\RigolDP832Driver.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Drivers\\RigolDP832.Driver\\RigolDP832Driver.cs",
+              "RelativeToolTip": "src\\Drivers\\RigolDP832.Driver\\RigolDP832Driver.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T03:15:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverDependency.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\DriverDependency.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.DriverSdk\\DriverDependency.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\DriverDependency.cs",
+              "RelativeToolTip": "src\\Cc.IDE.DriverSdk\\DriverDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:39:27.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\MainWindow.xaml",
+              "RelativeToolTip": "src\\Cc.IDE.App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T09:26:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.App\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\MainWindowViewModel.cs",
+              "RelativeToolTip": "src\\Cc.IDE.App\\MainWindowViewModel.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T03:56:39.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SerialTransport.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Communication\\SerialTransport.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Communication\\SerialTransport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Communication\\SerialTransport.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Communication\\SerialTransport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:29:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DriverConnectionData.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\DriverConnectionData.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.DriverSdk\\DriverConnectionData.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\DriverConnectionData.cs",
+              "RelativeToolTip": "src\\Cc.IDE.DriverSdk\\DriverConnectionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:39:30.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudioComposer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\StudioComposer.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.App\\StudioComposer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\StudioComposer.cs",
+              "RelativeToolTip": "src\\Cc.IDE.App\\StudioComposer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:29:14.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommunicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Communication\\CommunicationFactory.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Communication\\CommunicationFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Communication\\CommunicationFactory.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Communication\\CommunicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:29:38.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CapabilityParameter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\CapabilityParameter.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.DriverSdk\\CapabilityParameter.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\CapabilityParameter.cs",
+              "RelativeToolTip": "src\\Cc.IDE.DriverSdk\\CapabilityParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:39:32.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.CliTools\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.CliTools\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.CliTools\\Program.cs",
+              "RelativeToolTip": "src\\Cc.IDE.CliTools\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:39:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventAggregator.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\EventAggregator.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Mvvm\\EventAggregator.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\EventAggregator.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Mvvm\\EventAggregator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:39:22.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CanAbstractions.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.CAN\\CanAbstractions.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.CAN\\CanAbstractions.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.CAN\\CanAbstractions.cs",
+              "RelativeToolTip": "src\\Cc.IDE.CAN\\CanAbstractions.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:29:23.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RuntimeHost.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Runtime\\RuntimeHost.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Runtime\\RuntimeHost.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Runtime\\RuntimeHost.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Runtime\\RuntimeHost.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:36:18.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRuntimeHost.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Runtime\\IRuntimeHost.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Runtime\\IRuntimeHost.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Runtime\\IRuntimeHost.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Runtime\\IRuntimeHost.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:36:08.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectSystemJson.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Serialization\\ProjectSystemJson.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.ProjectSystem\\Serialization\\ProjectSystemJson.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Serialization\\ProjectSystemJson.cs",
+              "RelativeToolTip": "src\\Cc.IDE.ProjectSystem\\Serialization\\ProjectSystemJson.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:35:57.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IOPointDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\IOPointDefinition.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.ProjectSystem\\Models\\IOPointDefinition.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\IOPointDefinition.cs",
+              "RelativeToolTip": "src\\Cc.IDE.ProjectSystem\\Models\\IOPointDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:35:51.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoopDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\LoopDefinition.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.ProjectSystem\\Models\\LoopDefinition.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\LoopDefinition.cs",
+              "RelativeToolTip": "src\\Cc.IDE.ProjectSystem\\Models\\LoopDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:35:50.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOConnectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\IOConnectionConfig.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.ProjectSystem\\Models\\IOConnectionConfig.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\IOConnectionConfig.cs",
+              "RelativeToolTip": "src\\Cc.IDE.ProjectSystem\\Models\\IOConnectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:35:45.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Mvvm\\ObservableObject.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\ObservableObject.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Mvvm\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:16:00.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOActionDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\IOActionDefinition.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.ProjectSystem\\Models\\IOActionDefinition.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.ProjectSystem\\Models\\IOActionDefinition.cs",
+              "RelativeToolTip": "src\\Cc.IDE.ProjectSystem\\Models\\IOActionDefinition.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:35:41.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Player\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Player\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Player\\MainWindow.xaml",
+              "RelativeToolTip": "src\\Cc.IDE.Player\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-17T09:35:32.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICommunicationTransport.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Communication\\ICommunicationTransport.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Communication\\ICommunicationTransport.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Communication\\ICommunicationTransport.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Communication\\ICommunicationTransport.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:29:44.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.App\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.App\\AssemblyInfo.cs",
+              "RelativeToolTip": "src\\Cc.IDE.App\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:29:12.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ModbusTcpProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.PLC\\ModbusTcpProtocol.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.PLC\\ModbusTcpProtocol.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.PLC\\ModbusTcpProtocol.cs",
+              "RelativeToolTip": "src\\Cc.IDE.PLC\\ModbusTcpProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:22:56.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CapabilityOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\CapabilityOutput.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.DriverSdk\\CapabilityOutput.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.DriverSdk\\CapabilityOutput.cs",
+              "RelativeToolTip": "src\\Cc.IDE.DriverSdk\\CapabilityOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:16:32.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Mvvm\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\GlobalUsings.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Mvvm\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:15:59.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AsyncRelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\AsyncRelayCommand.cs",
+              "RelativeDocumentMoniker": "src\\Cc.IDE.Mvvm\\AsyncRelayCommand.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\PLC IDE\\src\\Cc.IDE.Mvvm\\AsyncRelayCommand.cs",
+              "RelativeToolTip": "src\\Cc.IDE.Mvvm\\AsyncRelayCommand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:15:54.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
